@@ -1,0 +1,17 @@
+body{
+    margin:0px;
+    padding:0px;
+    text-align:center;
+    background-color:darkslategray;
+    color:white;
+    
+}
+
+.wrapper{
+    margin-top:100px;
+    border:5px solid white;
+    height:500px;
+    width:400px;
+  
+}
+
